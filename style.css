@@ -39,9 +39,9 @@ nav {
 }
 #content {
     width: 900px;
-    height: 450px;
+    height: 410px;
     margin: auto;
-    padding: 10px;
+    /* padding: 10px; */
     background: lightcoral;
     border: 5px solid #fffc19;
     box-sizing: border-box;
@@ -73,9 +73,9 @@ article {
     margin-top: 10px;
 }
 aside {
-    width: 350px;
+    width: 400px;
     height: 400px;
-    background: coral;
+    background: blue;
     
     border: 5px solid #3a3918;
     box-sizing: border-box;
