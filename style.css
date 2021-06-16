@@ -67,6 +67,15 @@ aside {
     float: left;
     border: 5px solid #53b9b9;
     margin: 20px 0px 0px 10px;
+}
 
-    
+footer {
+    width: 900px;
+    height: 70px;
+    background: #61FFAD;
+    border: 5px solid #fffc19;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 20px 0px 0px 25px;
+    float: left;
 }
